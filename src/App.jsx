@@ -5,6 +5,7 @@ const App = () => {
     <div>
       Salom 
 <h2>Abdulatif TVAR</h2>
+<p>Siroj TVAR</p>
 
     </div>
   )
